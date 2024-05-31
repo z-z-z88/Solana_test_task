@@ -1,6 +1,6 @@
 # Solana test task
 
-Returns a json with token swap info
+Returns a JSON with the last swap transaction information on Raydium for a predefined token
 
 ## Installation
 
