@@ -8,7 +8,6 @@ Returns a json with token swap info
 2. Install dependencies:
 ```
 npm install 
-
 ```
 
 ## Usage
@@ -16,7 +15,6 @@ npm install
 1. Start server 
 ```
 npm run start
-
 ```
 
 2. Open url http://localhost/token 
